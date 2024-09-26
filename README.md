@@ -19,7 +19,7 @@ Contents:
    - a. Instructions for using the app
    - b. Calibration instructions for ESP32 sensor values
    - c. Instructions for configuring the MQTT and Video URLs
-6. Program to upload a web-viewable program for ESP32-CAM boards
+6. Program for ESP32-CAM boards - Upload videos to the App
 
 ### 1. Electrical Diagrams
    - Page 1 - Power Supplys
@@ -63,6 +63,10 @@ Trends Screen<br /> <br />  <br />
 Controls Screen<br /> <br />  <br />
 <img src="Images/Controls.png" alt="Controls Screen" width="400"/>
 <br /> <br />  <br />
+
+### 5. Instructions to operate the system <br />
+
+### 6. Program for ESP32-CAM boards - Upload videos to the App <br />
 
 
 
