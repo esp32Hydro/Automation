@@ -46,7 +46,7 @@ There are changes required to the code before uploading to an Esp32. These are: 
 <div align="left">These will be covered in section 6. of this document. </div>
 
 ### 4. Android phone app to view and manage the system <br />
-The instructions for using this app are covered in section 6. of this document.  <br />
+The instructions for using this app are covered in section 6. of this document. <br />
 Main HMI Screen  <br />
 ![Main HMI Screen](Images/HMI_Screen.png)
 
