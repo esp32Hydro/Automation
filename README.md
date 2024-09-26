@@ -49,10 +49,10 @@ There are changes required to the code before uploading to an Esp32. These are: 
 The instructions for using this app are covered in section 6. of this document. <br /> <br />
 Main HMI Screen
 ![Main HMI Screen](Images/HMI_Screen.png)
-<br /> <br />
+
 Videos Screen
 ![Videos Screen](Images/Videos.png)
-<br /> <br />
+
 
 
 
