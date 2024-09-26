@@ -20,7 +20,7 @@ Contents:
 ### 1. Electrical Diagrams
    - Page 1 - Power Supplys
    - Page 2 - Esp32 I/O connections
-   - Page 3 - Output power Connections <br />
+   - Page 3 - Output power Connections <br /> <br />
 If an item on the drawing has a PN_ number the Parts list PDF will show a picture of the item I used
 in this project with the suppliers name and the Text on there website which should aid a web search. 
 
