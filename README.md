@@ -3,7 +3,7 @@
 
 This repository contains all the files for a working automated hydroponic system.
 
-The project is under construction. When this message is deleted, it will be complete.
+The github repository is under construction. When this message is deleted, it will be complete.
 
 Contents:
 
