@@ -16,7 +16,7 @@ Contents:
 6. Program to upload a web-viewable program for ESP32-CAM boards
 
 ### 1. Electrical Diagrams
-Page 1 - Power Supplys
-Page 2 - Esp32 I/O connections
-Page 3 - Output power Connections
+   - Page 1 - Power Supplys
+   - Page 2 - Esp32 I/O connections
+   - Page 3 - Output power Connections
 
