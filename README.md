@@ -15,3 +15,5 @@ Contents:
    - c. Instructions for configuring the MQTT and Video URLs
 6. Program to upload a web-viewable program for ESP32-CAM boards
 
+###1. Electrical Diagrams
+
