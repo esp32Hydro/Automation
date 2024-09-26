@@ -57,6 +57,12 @@ Videos Screen<br /> <br />  <br />
 Gauges Screen<br /> <br />  <br />
 <img src="Images/Gauges.png" alt="Gauges Screen" width="400"/>
 <br /> <br />  <br />
+Trends Screen<br /> <br />  <br />
+<img src="Images/Trends.png" alt="Trends Screen" width="400"/>
+<br /> <br />  <br />
+Controls Screen<br /> <br />  <br />
+<img src="Images/Controls.png" alt="Controls Screen" width="400"/>
+<br /> <br />  <br />
 
 
 
