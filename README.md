@@ -13,3 +13,4 @@ Contents:
    a .  Instructions for using the app.
    b.  Calibration instructions for Esp32 sensor values
    c.  Instructions for configuring the MQTT and Video URL's
+6.  Program to upload a web viewable program for Esp32-Cam boards
