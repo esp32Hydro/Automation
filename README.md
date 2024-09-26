@@ -26,5 +26,5 @@ in this project with the suppliers name and the Text on there website which shou
 There were a few items that were purchased that just didnt work as advertised but this shortlist of items did the job.
 
 ### 2. Parts List
-As discussed above. The items in this list were reaonably priced and im sure that bigger name brand , more expensive items will work just as well.
+As discussed above. The items in this list were reaonably priced and i'm sure that bigger name brand , more expensive items will work just as well.
 
