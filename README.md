@@ -2,7 +2,7 @@
 ## Software and instructions for a Hydroponic Automation Project
 
 This project was inspired by Kyle Gabriel's - Build an Automated Hydroponic System - video and documentation and I would have not discovered the Esp32 if it were not for a world wide shortage of Raspberrys.
-I have an inate inability to structure a question to a programming forum that does not result in either no response or a telling off so ChatGPT has come to the rescue. Never rude. Always manages to understand 
+I have an inate inability to structure a question to a programming forum that results in either no response or a telling off so ChatGPT has come to the rescue. Never rude. Always manages to understand 
 what im getting at, and always moves me forward. The Android app. was coded in Kotlin which I learnt to use with ChatGPT and Android Studio.
 
 This repository contains all the files for a working automated hydroponic system.
