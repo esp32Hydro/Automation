@@ -23,5 +23,5 @@ Contents:
    - Page 3 - Output power Connections <br /> <br />
 If an item on the drawing has a PN_ number the Parts list PDF will show a picture of the item I used
 in this project with the suppliers name and the Text on there website which should aid a web search.<br /> <br />
-There were a few items that were purchased that just didnt work as advertised but this shortlist of items worked well.
+There were a few items that were purchased that just didnt work as advertised but this shortlist of items did the job.
 
