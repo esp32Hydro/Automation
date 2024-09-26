@@ -14,7 +14,7 @@ Contents:
 1. Electrical Diagrams
 2. Parts List
 3. Program to upload to a 38-pin WROOM ESP32 board
-4. A link to an Android phone app to view and manage the system
+4. Android phone app to view and manage the system
 5. Instructions to operate the system
    - a. Instructions for using the app
    - b. Calibration instructions for ESP32 sensor values
