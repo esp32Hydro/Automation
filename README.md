@@ -29,5 +29,7 @@ There were a few items that were purchased that just didnt work as advertised bu
 As discussed above. The items in this list were reaonably priced and i'm sure that bigger name brand , more expensive items will work just as well.
 
 ### 3. Program to upload to a 38-pin WROOM ESP32 board
-As a newbie to c, C++, VSCode, Esp32, PlatformIO, Arduino development environment I have committed programming sins but the end result works.
-  - Sin no 1. I nhave not used header files to split the code so everything is in one long Main CPP. There is however plenty of bookmarkable comments.
+As a newbie to C, C++, VSCode, Esp32, PlatformIO, Arduino development environment I have committed programming sins but the end result works.
+  - Sin no. 1. I have not used header files to split the code so everything is in one long Main CPP. There is however plenty of bookmarkable comments.
+  - Sin no. 2. I have used mainly Global variables but with MQTT this seems forgivable.
+  - Sin no. 3. I have used simple "if then else" type programming even where loops and cases could drastically improve the code.
