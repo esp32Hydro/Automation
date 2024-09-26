@@ -36,14 +36,14 @@ As discussed above. The items in this list were reaonably priced and i'm sure th
 As a newbie to C, C++, VSCode, Esp32, PlatformIO, Arduino development environment I have committed programming sins but the end result works.
    - Sin no. 1. I have not used header files to split the code so everything is in one long Main CPP. There is however plenty of bookmarkable comments.
    - Sin no. 2. I have used mainly Global variables but with MQTT this seems forgivable.
-   - Sin no. 3. I have used simple "if then else" type programming even where loops and cases could drastically improve the code. <br /> <br /> {flushleft}
+   - Sin no. 3. I have used simple "if then else" type programming even where loops and cases could drastically improve the code. <br /> <br />
 
 There are changes required to the code before uploading to an Esp32. These are: <br />
    - Timezone.
    - Cost per killWatt hr. for electricity charges.
    - MQTT connection variables
    - Wifi connection variables <br />
-These will be covered in section 6. of this document.
+<div align="left">These will be covered in section 6. of this document. </div>
 
 
 
