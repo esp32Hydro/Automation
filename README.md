@@ -45,7 +45,7 @@ There are changes required to the code before uploading to an Esp32. These are: 
    - Wifi connection variables <br />
 <div align="left">These will be covered in section 6. of this document. </div>
 
-
+### 4. Android phone app to view and manage the system <br /> <br />
 
 ![Main HMI Screen](Images/HMI_Screen.png)
 
