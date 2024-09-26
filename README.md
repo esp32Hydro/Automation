@@ -5,12 +5,13 @@ This repository contains all the files for a working automated hydroponic system
 
 Contents:
 
-1.  Electrical Diagrams
-2.  Parts List
-3.  Program to upload to a 38 pin wroom Esp32 board
-4.  A link to a Android phone app. to view and manage the system.
-5.  Instructions to operate the system
-    -a.  Instructions for using the app.
-    -b.  Calibration instructions for Esp32 sensor values
-    -c.  Instructions for configuring the MQTT and Video URL's
-6.  Program to upload a web viewable program for Esp32-Cam boards
+1. Electrical Diagrams
+2. Parts List
+3. Program to upload to a 38-pin WROOM ESP32 board
+4. A link to an Android phone app to view and manage the system
+5. Instructions to operate the system
+   - a. Instructions for using the app
+   - b. Calibration instructions for ESP32 sensor values
+   - c. Instructions for configuring the MQTT and Video URLs
+6. Program to upload a web-viewable program for ESP32-CAM boards
+
