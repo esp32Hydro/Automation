@@ -47,7 +47,7 @@ There are changes required to the code before uploading to an Esp32. These are: 
 
 
 
-
+![Main HMI Screen](Images/HMI Screen.png)
 
 
 
