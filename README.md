@@ -1,6 +1,9 @@
 # Automation
 ## Software and instructions for a Hydroponic Automation Project
 
+This project was inspired by Kyle Gabriel's Build an Automated Hydroponic System video and documentation and I would have not discovered the Esp32 if it were not for a world wide shortage of Raspberrys.
+
+
 This repository contains all the files for a working automated hydroponic system.
 
 The github repository is under construction. When this message is deleted, it will be complete.
