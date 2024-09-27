@@ -1,4 +1,4 @@
-Privacy Policy for Hydroponic Automation App
+## Privacy Policy for Hydroponic Automation App
 
 Effective Date: [27/09/2024]
    - 1. Introduction
