@@ -8,7 +8,7 @@ Effective Date: [27/09/2024]
         However, the app connects to a secure server to stream three video feeds related to the hydroponic simulation. This connection is protected by SSL encryption to ensure the security of data    
         transmission.<br /> <br />
 
-   - 3  Video Streaming and External Connections
+   - 3. Video Streaming and External Connections
         The app connects to our home server to access three video streams and a MQQT broker related to the hydroponic system simulation. These streams are only used for demonstration purposes and are 
         protected via SSL to safeguard the transmission of video data. No personal or sensitive information is collected or transmitted during these connections. under normal operation the app user will 
         connect to a MQTT server and video streams of there choice<br /> <br />
