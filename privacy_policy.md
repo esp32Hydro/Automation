@@ -1,6 +1,6 @@
 Privacy Policy for Hydroponic Automation App
 
-Effective Date: [27/09/2024]
+Effective Date: [29/09/2024]
    - 1. Introduction<br />
         This Privacy Policy describes how the Hydroponic Automation App handles user data. Landsdowne ("we", "our", "us") is committed to protecting the privacy of users of the app. The app does not                collect or share any personal data from its users.<br /> <br />
 
