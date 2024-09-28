@@ -5,7 +5,7 @@ Effective Date: [29/09/2024]
         This Privacy Policy describes how the Hydroponic Automation App handles user data. Landsdowne ("we", "our", "us") is committed to protecting the privacy of users of the app. The app does not                collect or share any personal data from its users.<br /> <br />
 
    - 2. Data Collection and Use<br />
-        However, the app connects to a secure server to stream three video feeds related to the hydroponic simulation. This connection is protected by SSL encryption to ensure the security of data transmission.<br /> <br />
+        However, the app connects to a secure server to stream three video feeds and a MQQT broker related to the hydroponic simulation. This connection is protected by SSL encryption to ensure the security of data transmission.<br /> <br />
 
    - 3. Video Streaming and External Connections<br />
         The app connects to our home server to access three video streams and a MQQT broker related to the hydroponic system simulation. These streams are only used for demonstration purposes and are 
