@@ -16,7 +16,7 @@ Effective Date: [29/09/2024]
         All information, such as configuration settings and operational data for controlling the hydroponic system, is stored locally on the user’s device. This data is not accessed, collected, or shared 
         by us or any third parties.<br /> <br />
         
-   - 5. No Access to Personal Information
+   - 5. No Access to Personal Information<br />
         We do not have access to personal information such as names, emails, phone numbers, or any other personal identifiers.<br /> <br />
      
    - 6. Security<br />
